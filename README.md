@@ -37,4 +37,4 @@ python GameOfLife.py
 
 ## 🤖 Author
 <!--Remove the below lines and add yours -->
-[Vivek Kumar](https://github.com/zeal2end)
+Adefolahan Amori 
